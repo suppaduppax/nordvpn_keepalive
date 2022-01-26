@@ -1,5 +1,5 @@
 > This is no longer needed and is now archived to show the proper fix for this issue. \
-**To fix NordVPN NordLynx disconnection issues, install wireguard-tools the package.**
+**To fix NordVPN NordLynx disconnection issues, install the `wireguard-tools` package.**
 
 
 # nordvpn_keepalive
